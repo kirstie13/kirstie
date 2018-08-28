@@ -3,10 +3,10 @@
   }
 
 .my-brand {
-   font-size: 18px;
-   font-style: italic;
+   font-size: 30px;
+   font-style: bold italic;
    text-transform: lowercase;
-   color: red;
+   color: green;
  }
 
 /*
